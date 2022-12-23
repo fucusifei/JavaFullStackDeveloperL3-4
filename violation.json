@@ -1,0 +1,16 @@
+[ {
+  "Violation" : "ALCOHOL",
+  "Fine amount" : 1.176E7
+}, {
+  "Violation" : "SPEEDING",
+  "Fine amount" : 5045094.0
+}, {
+  "Violation" : "PARKING",
+  "Fine amount" : 2688000.0
+}, {
+  "Violation" : "RED_COLOR",
+  "Fine amount" : 1134000.0
+}, {
+  "Violation" : "PHONE",
+  "Fine amount" : 714000.0
+} ]

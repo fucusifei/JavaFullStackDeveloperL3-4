@@ -4,33 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc569941-eb34-4357-a4d5-945e6a65f729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/F2001.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/F2002.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/F2003.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/F2004.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/F2005.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/F2006.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/F2007.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/F2008.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/F2009.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/F2010.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/persons.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/task1/Violation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/task1/files/FileFounder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/task1/files/FileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/task1/reader/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/task1/reader/Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/task2/CreateInitials.java" afterDir="false" />
+    <list default="true" id="dc569941-eb34-4357-a4d5-945e6a65f729" name="Changes" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,8 +111,16 @@
       <workItem from="1671557788289" duration="1839000" />
       <workItem from="1671633198842" duration="9040000" />
       <workItem from="1671708057964" duration="3099000" />
-      <workItem from="1671787963138" duration="2516000" />
+      <workItem from="1671787963138" duration="3482000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1671794289675</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671794289675</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,5 +136,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
