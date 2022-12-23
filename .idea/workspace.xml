@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc569941-eb34-4357-a4d5-945e6a65f729" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/F2001.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/F2002.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/F2003.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/F2004.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/F2005.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/F2006.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/F2007.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/F2008.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/F2009.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/F2010.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/persons.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/task1/Violation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/task1/files/FileFounder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/task1/files/FileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/task1/reader/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/task1/reader/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/task2/CreateInitials.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IBKdvt8TIGMfrhKSqKBGTfuUwq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/gitlabProj/JavaFullStackDeveloperL3-4&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gitlabProj\JavaFullStackDeveloperL3-4\src\main\java\com\yevdokymov\task2" />
+      <recent name="D:\gitlabProj\JavaFullStackDeveloperL3-4" />
+      <recent name="D:\gitlabProj\JavaFullStackDeveloperL3-4\src\main\java\com\yevdokymov" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yevdokymov.Main" />
+      <module name="JavaFullStackDeveloperL3-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yevdokymov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Parser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yevdokymov.task1.reader.Parser" />
+      <module name="JavaFullStackDeveloperL3-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yevdokymov.task1.reader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserForInitials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yevdokymov.task2.reader.ParserForInitials" />
+      <module name="JavaFullStackDeveloperL3-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yevdokymov.task2.reader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ParserForInitials" />
+        <item itemvalue="Application.Parser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc569941-eb34-4357-a4d5-945e6a65f729" name="Changes" comment="" />
+      <created>1669649631186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669649631186</updated>
+      <workItem from="1669649632489" duration="1103000" />
+      <workItem from="1670588951534" duration="37000" />
+      <workItem from="1671440136259" duration="3345000" />
+      <workItem from="1671445428652" duration="1933000" />
+      <workItem from="1671545169581" duration="510000" />
+      <workItem from="1671557788289" duration="1839000" />
+      <workItem from="1671633198842" duration="9040000" />
+      <workItem from="1671708057964" duration="3099000" />
+      <workItem from="1671787963138" duration="2516000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
